@@ -1,2 +1,2 @@
-# work_C27
-work of class C27
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
